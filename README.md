@@ -1,2 +1,2 @@
-# openfa
+# OpenFA
 Open Financial Analysis Library
